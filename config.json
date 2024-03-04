@@ -1,0 +1,20 @@
+{
+    "sudo": 986614719,
+    "start_msg": " ︎مرحبا بكم في بوت رشق احمد الخاص @uurrr",
+    "prices": {
+        "member": 1000,
+        "link": 1,
+        "vote": 100,
+        "react": 100,
+        "forward": 100,
+        "view": 100,
+        "poll": 100,
+        "userbot": 100,
+        "linkbot": 100,
+        "linkbot2": 100,
+        "comments": 100,
+        "spam": 100
+    },
+    "bot_token": "6355657566:AAFHPNbJ8acJfzCa1U7qHa7EQ_iMS2Et3Hc",
+    "give_bot_token": "6842902900:AAFRoLUwNnV-h7Mpq7P7XlBD8wArDhvuUDo"
+}
